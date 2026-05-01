@@ -16,3 +16,6 @@ This presentation explains phishing attacks, how to identify them, and how to st
 
 ## Outcome
 Improved understanding of phishing threats and cybersecurity awareness.
+## Author
+Sunday John Onyebuchi 
+– Cybersecurity Intern at CodeAlpha
